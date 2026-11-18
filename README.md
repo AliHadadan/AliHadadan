@@ -2,9 +2,9 @@
 
 ### Full Stack Developer
 
-**React.js · Next.js · TypeScript · Node.js**
+**Specializing in React, Next.js, TypeScript & Node.js**
 
-Engineering modern web applications with a focus on performance, clean architecture, and exceptional user experiences.
+Engineering scalable web applications with a focus on performance, clean architecture, and exceptional user experiences.
 
 ---
 
