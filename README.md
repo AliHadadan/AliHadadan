@@ -1,11 +1,10 @@
+# Ali Hadadan
 
-# 👋 Hi, I'm Ali Hadadan
+### Full Stack Developer
 
-### 💻 Full Stack Developer
+**React.js · Next.js · TypeScript · Node.js**
 
-React | Next.js | TypeScript | Node.js
-
-Building complete web apps from UI to API.
+Engineering modern web applications with a focus on performance, clean architecture, and exceptional user experiences.
 
 ---
 
