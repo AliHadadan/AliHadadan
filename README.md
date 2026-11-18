@@ -9,10 +9,10 @@ Building complete web apps from UI to API.
 
 ---
 
-## 🚀 Tech Stack & Tools
+<h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,vite,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs&theme=dark" />
 </p>
 
 ---
