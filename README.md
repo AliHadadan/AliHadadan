@@ -8,9 +8,9 @@ Engineering scalable web applications with a focus on performance, clean archite
 
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="">🚀 Tech Stack</h2>
 
-<p align="center">
+<p align="">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs&theme=dark" />
 </p>
 
@@ -18,7 +18,7 @@ Engineering scalable web applications with a focus on performance, clean archite
 
 ## 📊 GitHub Statistics
 
-<p align="">
+<p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AliHadadan&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHadadan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
