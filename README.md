@@ -8,9 +8,9 @@ Engineering scalable web applications with a focus on performance, clean archite
 
 ---
 
-<h2 align="">🚀 Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<p align="">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs&theme=dark" />
 </p>
 
